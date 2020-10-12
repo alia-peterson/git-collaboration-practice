@@ -1,2 +1,3 @@
-text!
-# git-collaboration-practice
+text!  
+
+More information about using git!
