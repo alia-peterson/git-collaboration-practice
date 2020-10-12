@@ -1,2 +1,2 @@
 text!
-# git-collaboration-practice
+Here we are practicin out git. GIT IT!
